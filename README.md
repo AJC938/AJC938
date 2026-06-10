@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**AJC938/AJC938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Engineering Student
+- Java Developer
+- Learning Python
+- UI/UX Designer
 
-Here are some ideas to get you started:
+## Current Goal
+Build 3 strong Java projects and publish them on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Roadmap
+1. Java
+2. Python
+3. HTML / CSS / JavaScript
+4. C++
+
+## Technologies
+- Java
+- Python
+- Git & GitHub
+- Figma
 -->
