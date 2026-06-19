@@ -4,7 +4,7 @@
 - Computer Engineering Student
 - Java Developer
 - Learning Python
-- UI/UX Designer
+
 
 ## Current Goal
 Build 3 strong Java projects and publish them on GitHub.
