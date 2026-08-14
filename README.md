@@ -1,34 +1,97 @@
 # Abdullah Almutairi
 
-**Electrical & Computer Engineering Student | Embedded Systems | Software Engineering | UI/UX**
+**Electrical & Computer Engineering Student | Embedded Systems | Software Engineering**
 
-Electrical & Computer Engineering student at **King Abdulaziz University** focused on building practical engineering systems across embedded software, computer architecture, frontend engineering, and product design.
+Electrical & Computer Engineering student at **King Abdulaziz University** building engineering-focused systems across embedded development, computer architecture, and software engineering.
 
-## Engineering Focus
+---
 
-- **Embedded Systems & Firmware** — C, Embedded C, microcontrollers, digital systems
-- **Software Engineering** — Java, OOP, data structures, application architecture
-- **Frontend Engineering** — HTML, CSS, JavaScript, responsive interfaces
-- **Computer Architecture** — processor design, digital logic, custom ISA development
-- **UI/UX Design** — Figma, design systems, prototyping, product thinking
+## Engineering Tracks
 
-## Featured Projects
+### ⚡ Electrical & Computer Engineering
 
-| Project | Area | Description |
-|---|---|---|
-| **Falcon-X Processor** | Computer Architecture / DSP | 8-bit application-specific processor for sensor signal processing |
-| **InsightX** | Frontend Engineering | Production-style SaaS analytics dashboard using Vanilla JavaScript |
-| **EMS-Pro** | Software Engineering | Layered Java employee management system with JDBC and SQLite |
-| **Falcon-8 CPU** | Computer Architecture | Custom 8-bit single-cycle processor designed in Logisim Evolution |
+Focused on low-level systems, embedded engineering, digital systems, and computer architecture.
 
-## Portfolio Direction
+**Core Areas**
 
-My primary engineering direction is **Embedded Systems / Firmware Engineering**, supported by a broader Software Engineering portfolio covering application architecture, frontend systems, and computer architecture.
+- C
+- Embedded C
+- Microcontrollers & Embedded Systems
+- Raspberry Pi / MCU-based systems
+- Computer Architecture
+- Digital Logic & Processor Design
+- FPGA / Quartus
+- Computer Vision for Engineering Systems
+
+**Featured Projects**
+
+| Project | Focus |
+|---|---|
+| **Falcon-X Processor** | 8-bit Application-Specific Processor for sensor signal processing |
+| **Falcon-8 CPU** | Custom 8-bit single-cycle processor in Logisim Evolution |
+
+**Planned / Upcoming Work**
+
+- Embedded C projects
+- STM32 / microcontroller systems
+- Raspberry Pi projects
+- FPGA / Quartus projects
+- Computer-vision engineering work using YOLO
+
+---
+
+### 💻 Software Engineering
+
+Focused on application architecture, programming, data, frontend systems, and practical software development.
+
+**Core Areas**
+
+- Java
+- Python
+- SQL & Databases
+- OOP & Data Structures
+- Software Architecture
+- HTML / CSS / JavaScript
+- Flutter / Dart
+
+**Featured Projects**
+
+| Project | Focus |
+|---|---|
+| **EMS-Pro** | Layered Java application with JDBC + SQLite |
+| **InsightX** | Production-style SaaS analytics dashboard |
+| **Library Management System** | Java Swing + OOP + file persistence |
+| **Student Management System** | Java Swing + data management |
+
+**Planned / Upcoming Work**
+
+- Advanced Java project
+- SQL / database-focused project
+- Python projects
+- HTML / CSS project
+- Flutter projects
+
+---
+
+## Engineering Direction
+
+My primary engineering direction is **Embedded Systems / Firmware Engineering**, supported by a dedicated **Software Engineering** portfolio.
+
+I keep these tracks intentionally separate so each project is evaluated within the engineering context it was built for rather than presented as one mixed technology list.
+
+---
+
+## Current Focus
+
+**Electrical / Embedded:** C → Embedded C → Microcontrollers → FPGA / Quartus → Advanced embedded systems
+
+**Software:** Java → Software Architecture → SQL / Databases → Python → Frontend → Flutter
+
+---
 
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/a-almutairi6/)
-- [Behance](https://www.behance.net/AbdullahAlmutiri)
 - [GitHub](https://github.com/AJC938)
 
 ---
