@@ -1,4 +1,4 @@
-# Abdullah Almutairi 👋
+# Abdullah Almutairi 
 
 **Electrical & Computer Engineering Student | Embedded Systems | Software Engineering | UI/UX**
 
