@@ -1,34 +1,29 @@
-# Abdullah Almutairi 
+# Abdullah Almutairi
 
 **Electrical & Computer Engineering Student | Embedded Systems | Software Engineering | UI/UX**
 
-I'm an Electrical & Computer Engineering student at **King Abdulaziz University**, building engineering-focused software and hardware projects with an emphasis on practical problem solving, architecture, and product-quality documentation.
+Electrical & Computer Engineering student at **King Abdulaziz University** focused on building practical engineering systems across embedded software, computer architecture, frontend engineering, and product design.
 
-## Focus Areas
+## Engineering Focus
 
 - **Embedded Systems & Firmware** — C, Embedded C, microcontrollers, digital systems
 - **Software Engineering** — Java, OOP, data structures, application architecture
 - **Frontend Engineering** — HTML, CSS, JavaScript, responsive interfaces
+- **Computer Architecture** — processor design, digital logic, custom ISA development
 - **UI/UX Design** — Figma, design systems, prototyping, product thinking
-- **Computer Architecture** — custom processor design and digital logic
 
 ## Featured Projects
 
-### Falcon-X Processor
-An 8-bit Application-Specific Processor designed for real-time sensor signal processing in Logisim Evolution.
+| Project | Area | Description |
+|---|---|---|
+| **Falcon-X Processor** | Computer Architecture / DSP | 8-bit application-specific processor for sensor signal processing |
+| **InsightX** | Frontend Engineering | Production-style SaaS analytics dashboard using Vanilla JavaScript |
+| **EMS-Pro** | Software Engineering | Layered Java employee management system with JDBC and SQLite |
+| **Falcon-8 CPU** | Computer Architecture | Custom 8-bit single-cycle processor designed in Logisim Evolution |
 
-### InsightX
-A production-style SaaS analytics dashboard built with HTML, CSS, and Vanilla JavaScript.
+## Portfolio Direction
 
-### EMS Pro
-A layered Java enterprise-style Employee Management System using JDBC and SQLite.
-
-### Falcon-8 CPU
-A custom 8-bit single-cycle processor designed from scratch in Logisim Evolution.
-
-## Current Direction
-
-My primary career direction is **Embedded Systems / Firmware Engineering**, while continuing to build a strong Software Engineering portfolio.
+My primary engineering direction is **Embedded Systems / Firmware Engineering**, supported by a broader Software Engineering portfolio covering application architecture, frontend systems, and computer architecture.
 
 ## Links
 
@@ -39,4 +34,4 @@ My primary career direction is **Embedded Systems / Firmware Engineering**, whil
 ---
 
 **Abdullah Almutairi**  
-Electrical & Computer Engineering Student · King Abdulaziz University
+Electrical & Computer Engineering · King Abdulaziz University
