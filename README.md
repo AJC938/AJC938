@@ -1,6 +1,6 @@
 # Abdullah Almutairi
 
-**Electrical & Computer Engineering Student | Embedded Systems | Software Engineering**
+**Electrical & Computer Engineering  | Embedded Systems | Software Engineering**
 
 Electrical & Computer Engineering student at **King Abdulaziz University** building engineering-focused systems across embedded development, computer architecture, and software engineering.
 
