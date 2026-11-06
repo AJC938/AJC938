@@ -93,6 +93,7 @@ I keep these tracks intentionally separate so each project is evaluated within t
 
 - [LinkedIn](https://www.linkedin.com/in/a-almutairi6/)
 - [GitHub](https://github.com/AJC938)
+- [GitHub](https://abdullah-almutairi.pages.dev/)
 
 ---
 
